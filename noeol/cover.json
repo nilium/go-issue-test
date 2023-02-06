@@ -1,0 +1,7 @@
+{
+	"OutConfig":"noeol/out.cover",
+	"PkgPath": "github.com/nilium/go-issue-test/noeol",
+	"PkgName": "noeol",
+	"ModulePath": "go.mod",
+	"Granularity": "perblock"
+}

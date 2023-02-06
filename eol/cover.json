@@ -1,0 +1,7 @@
+{
+	"OutConfig":"eol/out.cover",
+	"PkgPath": "github.com/nilium/go-issue-test/eol",
+	"PkgName": "eol",
+	"ModulePath": "go.mod",
+	"Granularity": "perblock"
+}
