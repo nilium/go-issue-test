@@ -2,7 +2,7 @@ go-issue-test
 =============
 
 This is a package to test a Go issue with `go test -cover -covermode=atomic` where the newline at the end of source
-files is significant.
+files is significant. This only affects Go 1.20 -- tests on 1.19.5 succeed.
 
 The tests can be run by hand or using `make` (with targets `all`, `eol`, or `noeol`).
 
